@@ -1,7 +1,7 @@
 # Portfolio
 1. Reinforcement learning with Markov Decision Processes - https://github.com/Dovudkhon1/Reinforcement-learning-project
 2. Feelines Classification Model - https://github.com/Dovudkhon1/FelinesClassification
-3. NLP-Speech to Text in Uzbek Fine Tuning - 
+3. NLP-Speech to Text in Uzbek Fine Tuning - https://github.com/Dovudkhon1/uzbek-stt
 4. N-body Simulation and its analysis - https://github.com/Dovudkhon1/N-Body-simulation
 5. Parallel Prograaming:
      Nearest-Furthest Distances with MPI - https://github.com/Dovudkhon1/Nearest-Furthest-parallel
